@@ -20,5 +20,6 @@ TDX DLL封装程序
 
 将https://github.com/skanda-huayan/tdxCL使用visual c++ 2022重新编译
 
-#### PYD
+#### PyCL
+
 对通达信-缠论的的python封装
