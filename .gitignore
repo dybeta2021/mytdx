@@ -1,0 +1,7 @@
+.vs
+Release
+.idea
+cmake-build-debug
+*.pyc
+cmake-build-release
+.DS_Store
