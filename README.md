@@ -18,7 +18,7 @@ TDX DLL封装程序
 
 #### TDX-CL
 
-将https://github.com/skanda-huayan/tdxCL使用visual c++ 2022重新编译
+将https://github.com/skanda-huayan/tdxCL 使用visual c++ 2022重新编译
 
 #### PyCL
 
